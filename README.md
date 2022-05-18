@@ -7,7 +7,9 @@
 - ⚡ Fun fact: ... It all started with a Wix support engineer(cool story)
 
 Connect with me:
-LinkedIn 
+LinkedIn ![image](https://user-images.githubusercontent.com/97195308/169159263-30d97035-a385-4220-a93b-a733fe697e69.png)
+
+
 
 Frontend:
 JavaScript React HTML CSS Axios
